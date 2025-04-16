@@ -45,7 +45,7 @@ This is not theory. This is live-fire practice.
 
 Clone this repository:
 
-`git clone https://github.com/yourname/black-hat-ai.git cd black-hat-ai`
+`git clone https://github.com/randalltr/black-hat-ai.git`
 
 
 Open the chapters in any Markdown viewer (VS Code is recommended).
