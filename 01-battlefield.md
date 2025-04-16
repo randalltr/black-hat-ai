@@ -106,4 +106,4 @@ And if you can see past the illusion, you can make the model do almost anything.
 
 In the next chapter, we start with the most basic — and most devastating — technique in AI exploitation:
 
-**Prompt Injection.**
+[**Prompt Injection.**](02-prompt-injection.md)
