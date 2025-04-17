@@ -65,6 +65,19 @@ This content is for educational and research purposes only.
 Do not apply these techniques against systems you do not have explicit authorization to test.  
 You are responsible for your actions.
 
+### Extended Legal Notice
+
+The information provided in *Black Hat AI* is intended solely for responsible research, academic study, and authorized security testing.  
+By accessing or using any part of this repository, you agree to the following:
+
+- You will **not use** the tools, code, examples, or techniques described here to attack, probe, manipulate, or disrupt any system without **explicit, written permission** from the system owner.  
+- You understand that applying these methods in unauthorized environments may constitute a **violation of local, national, or international law**, including — but not limited to — the Computer Fraud and Abuse Act (CFAA), the DMCA, and applicable computer misuse laws in your jurisdiction.  
+- The author(s) of this repository **do not condone, encourage, or support** the use of adversarial AI techniques for malicious, unethical, or exploitative purposes.
+
+This material is provided **as-is**, without any guarantees of effectiveness, legality, or safety. The author(s) assume **no liability** for damages resulting from use or misuse, including — but not limited to — system downtime, data loss, account bans, employment consequences, or criminal prosecution.
+
+If you are unsure whether your usage falls within ethical or legal bounds, **do not proceed.**
+
 ---
 
 ## Contributions
