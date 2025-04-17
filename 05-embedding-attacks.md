@@ -1,4 +1,7 @@
 # 05 — Embedding Attacks  
+
+> ⚠️ **Disclaimer:** This chapter is part of Black Hat AI and is intended for research and education only. Unauthorized testing is strictly prohibited. [Read full disclaimer →](DISCLAIMER.md)
+
 Manipulating the Memory Space of AI Systems
 
 Some AI systems don’t just answer questions — they **search** their own memory.

@@ -1,5 +1,7 @@
 # 01 — Understanding the Battlefield
 
+> ⚠️ **Disclaimer:** This chapter is part of Black Hat AI and is intended for research and education only. Unauthorized testing is strictly prohibited. [Read full disclaimer →](DISCLAIMER.md)
+
 You don’t attack something well until you understand what it *thinks* it is.
 
 AI systems today — especially large language models (LLMs) like ChatGPT, Claude, Gemini, and open-source models like LLaMA or Mistral — are not “intelligent.”  

@@ -1,5 +1,7 @@
 # 02 — Prompt Injection
 
+> ⚠️ **Disclaimer:** This chapter is part of Black Hat AI and is intended for research and education only. Unauthorized testing is strictly prohibited. [Read full disclaimer →](DISCLAIMER.md)
+
 Prompt Injection is the **SQL Injection of AI**.
 
 It’s the act of feeding input into a language model that **overrides, hijacks, or manipulates** its original instructions — without needing access to the system prompt, the codebase, or any internal config.
