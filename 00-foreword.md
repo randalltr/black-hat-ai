@@ -1,5 +1,7 @@
 # 00 — Foreword
 
+> ⚠️ **Disclaimer:** This chapter is part of Black Hat AI and is intended for research and education only. Unauthorized testing is strictly prohibited. [Read full disclaimer →](DISCLAIMER.md)
+
 This is not a safe book.
 
 This book will not teach you how to feel good about AI.  
@@ -45,8 +47,6 @@ Use it wisely.
 ---
 
 ## Read this before continuing
-
-> ⚠️ **Disclaimer:** This chapter is part of Black Hat AI and is intended for research and education only. Unauthorized testing is strictly prohibited. [Read full disclaimer →](DISCLAIMER.md)
 
 Every technique in this book can be used responsibly.  
 And every technique in this book can be abused.
