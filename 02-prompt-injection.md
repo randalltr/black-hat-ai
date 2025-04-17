@@ -146,4 +146,4 @@ It’s about **becoming the louder voice** in the machine’s head.
 Next up:  
 What happens when even filters can’t stop you?
 
-**Jailbreaking.**
+[**Jailbreaking.**](03-jailbreaking.md)
