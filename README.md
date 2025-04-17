@@ -13,17 +13,17 @@ No reverse engineering. No shellcode. Just precision-crafted input.
 
 Each chapter is written in plain Markdown. Short. Tactical. Immediately actionable.
 
-- [00 — Foreword](book/00-foreword.md)  
-- [01 — Understanding the Battlefield](book/01-battlefield.md)  
-- [02 — Prompt Injection](book/02-prompt-injection.md)  
-- [03 — Jailbreaking](book/03-jailbreaking.md)  
-- [04 — Model Evasion](book/04-model-evasion.md)  
-- [05 — Embedding Attacks](book/05-embedding-attacks.md)  
-- [06 — Bypassing Guardrails](book/06-bypassing-guardrails.md)  
-- [07 — Automation & Payload Delivery](book/07-automation.md)  
-- [08 — Countermeasures](book/08-countermeasures.md)  
-- [09 — Weaponizing Your Knowledge](book/09-call-to-action.md)  
-- [10 — Resources & Tools](book/10-resources.md)
+- [00 — Foreword](00-foreword.md)  
+- [01 — Understanding the Battlefield](01-battlefield.md)  
+- [02 — Prompt Injection](02-prompt-injection.md)  
+- [03 — Jailbreaking](03-jailbreaking.md)  
+- [04 — Model Evasion](04-model-evasion.md)  
+- [05 — Embedding Attacks](05-embedding-attacks.md)  
+- [06 — Bypassing Guardrails](06-bypassing-guardrails.md)  
+- [07 — Automation & Payload Delivery](07-automation.md)  
+- [08 — Countermeasures](08-countermeasures.md)  
+- [09 — Weaponizing Your Knowledge](09-call-to-action.md)  
+- [10 — Resources & Tools](10-resources.md)
 
 Chapters can be read in any order. New content drops incrementally.
 
