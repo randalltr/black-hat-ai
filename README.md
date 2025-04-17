@@ -78,6 +78,8 @@ This material is provided **as-is**, without any guarantees of effectiveness, le
 
 If you are unsure whether your usage falls within ethical or legal bounds, **do not proceed.**
 
+> ⚠️  [Read full disclaimer →](DISCLAIMER.md)
+
 ---
 
 ## Contributions
