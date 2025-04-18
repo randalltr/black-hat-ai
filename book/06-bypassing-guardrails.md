@@ -174,4 +174,4 @@ Next: You’ve got the access. The technique. The payload.
 
 Now let’s automate.
 
-[**Automation & Payload Delivery**](07-automation.md)
+[**Automation.**](07-automation.md)

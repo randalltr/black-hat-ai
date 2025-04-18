@@ -66,4 +66,4 @@ We’re here to be clear.
 
 Welcome to **Black Hat AI**.
 
-[Let’s begin.](01-battlefield.md)
+[**Battlefield.**](01-battlefield.md)

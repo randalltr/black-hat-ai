@@ -194,3 +194,5 @@ Next: Let’s close the loop — and talk about **countermeasures**.
 What defenders are doing.  
 What’s working.  
 And why most of it still isn’t enough.
+
+[**Countermeasures.**](08-countermeasures.md)
