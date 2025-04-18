@@ -1,6 +1,6 @@
 # 03 — Jailbreaking  
 
-> ⚠️ **Disclaimer:** This chapter is part of Black Hat AI and is intended for research and education only. Unauthorized testing is strictly prohibited. [Read full disclaimer →](DISCLAIMER.md)
+> ⚠️ **Disclaimer:** This chapter is part of Black Hat AI and is intended for research and education only. Unauthorized testing is strictly prohibited. [Read full disclaimer →](../DISCLAIMER.md)
 
 Breaking Through Guardrails, Filters, and Safety Constraints
 

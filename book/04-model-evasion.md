@@ -1,6 +1,6 @@
 # 04 — Model Evasion  
 
-> ⚠️ **Disclaimer:** This chapter is part of Black Hat AI and is intended for research and education only. Unauthorized testing is strictly prohibited. [Read full disclaimer →](DISCLAIMER.md)
+> ⚠️ **Disclaimer:** This chapter is part of Black Hat AI and is intended for research and education only. Unauthorized testing is strictly prohibited. [Read full disclaimer →](../DISCLAIMER.md)
 
 Avoiding Detection While Delivering Unsafe or Undesired Output
 
