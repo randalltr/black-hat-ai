@@ -95,7 +95,7 @@ This project is open to forks, translations, and improvements. Pull requests are
 This is the second in a multi-volume set focused on AI offensive operations:
 
 - [Red Teaming the Prompt](https://github.com/randalltr/red-teaming-the-prompt)
-- [AI Red Teaming Playbook](https://github.com/randalltr/ai-red-teaming-playbook) *Coming Soon* 
+- [AI Red Teaming Playbook](https://github.com/randalltr/ai-red-teaming-playbook) *(Coming Soon)* 
 - ~~REDACTED~~ 
 
 Stay alert. Stay quiet. Stay sharp.
